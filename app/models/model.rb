@@ -6,7 +6,7 @@ class Model
     
     @@all = []
     
-    def initialize(naem, breed, age)
+    def initialize(name, breed, age)
       @name = name
       @breed = breed
       @age = age
